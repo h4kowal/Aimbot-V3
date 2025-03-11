@@ -93,7 +93,7 @@ getgenv().ExunysDeveloperAimbot = {
 		LockMode = 1, -- 1 = CFrame; 2 = mousemoverel
 		LockPart = "Head", -- Body part to lock on
 
-		TriggerKey = Enum.UserInputType.MouseButton2,
+		TriggerKey = Enum.UserInputType.X,
 		Toggle = false
 	},
 
